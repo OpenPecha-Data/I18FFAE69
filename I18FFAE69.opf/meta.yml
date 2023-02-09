@@ -1,0 +1,16 @@
+id: I18FFAE69
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:01:44.021773
+last_modified: 2023-02-09 15:01:44.021890
+source_metadata:
+  title: 'MSV 1,02: Poṣadhavastu'
+  language: bo
+bases:
+  A529:
+    base_file: A529.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
